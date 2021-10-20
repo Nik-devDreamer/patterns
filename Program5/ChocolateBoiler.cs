@@ -30,9 +30,9 @@ namespace Program5
                         uniqueInstance = new ChocolateBoiler();
                     }
                 }
-            }
-		    return uniqueInstance;
 	    }
+		return uniqueInstance;
+	}
 
         public void fill()
         {
