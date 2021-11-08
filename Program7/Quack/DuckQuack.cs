@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Program7.Quack
+{
+    public class DuckQuack : IQuackBehavior
+    {
+        public void Quack()
+        {
+            Console.WriteLine("Утка крякает");
+        }
+    }
+}
