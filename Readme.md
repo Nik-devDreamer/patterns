@@ -1,0 +1,12 @@
+# Рассмотренные паттерны:
+![Check mark](Check-mark.png)[Стратегия](https://github.com/Nikita-Programmer/patterns/tree/main/Program)  
+![Check mark](Check-mark.png)[Наблюдатель](https://github.com/Nikita-Programmer/patterns/tree/main/Program2)  
+![Check mark](Check-mark.png)[Декоратор](https://github.com/Nikita-Programmer/patterns/tree/main/Program3)  
+![Check mark](Check-mark.png)[Фабрика](https://github.com/Nikita-Programmer/patterns/tree/main/Program4)  
+![Check mark](Check-mark.png)[Одиночка](https://github.com/Nikita-Programmer/patterns/tree/main/Program5)  
+![Check mark](Check-mark.png)[Команда](https://github.com/Nikita-Programmer/patterns/tree/main/Program6)  
+![Check mark](Check-mark.png)[Адаптер](https://github.com/Nikita-Programmer/patterns/tree/main/Program7)  
+![Check mark](Check-mark.png)[Фасад](https://github.com/Nikita-Programmer/patterns/tree/main/Program8)  
+![Check mark](Check-mark.png)[Шаблонный метод](https://github.com/Nikita-Programmer/patterns/tree/main/Program9)  
+![Check mark](Check-mark.png)[Итератор](https://github.com/Nikita-Programmer/patterns/tree/main/Program10)  
+![Check mark](Check-mark.png)[Компоновщик](https://github.com/Nikita-Programmer/patterns/tree/main/Program11)
